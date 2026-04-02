@@ -152,13 +152,13 @@ transition:0.4s;
 
 <h3 align="center">
 <a href="https://mindpulseai.onrender.com">
-🌐 CapitalBank
+🌐 MindPulseAI
 </a>
 </h3>
 
 
 <p align="center">
-MindPulseAI is a Django-based platform that uses machine learning to assess students’ mental well-being from survey data, providing risk predictions, personal dashboards, AI insights, and admin monitoring for research purposes.
+MindPulseAI is a Django-based platform that uses machine learning to analyze student survey data and predict mental health risks, offering dashboards, insights, and admin monitoring.
 </p>
 
 <p align="center">
