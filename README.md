@@ -101,7 +101,7 @@ Full banking system with authentication, transactions & role control
 
 <p align="center">
 <a href="[https://capitalbank.onrender.com/](https://github.com/almasforhadi/CapitalBank-)">
-<img src="https://img.shields.io/badge/📦 View Code-00c9ff?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/🌐 View Code-00c9ff?style=for-the-badge&logoColor=white">
 </a>
 </p>
 
@@ -119,16 +119,16 @@ background:linear-gradient(145deg,#141e30,#243b55);
 box-shadow:0 0 15px rgba(255,0,200,.4);
 ">
 
-<h3 align="center">🎓 E-shop </h3>
+<h3 align="center"> MuradMartBD </h3>
 
 <p align="center">
-Full-stack e-commerce app with Django, featuring auth, cart, orders & SSLCommerz payments.
+A Full-stack production ready e-commerce platform for a Bangladeshi client, enabling local users to shop online and experience real-world digital marketplace interactions
 </p>
 
 
 <p align="center">
-<a href="https://github.com/almasforhadi/E-shop">
-<img src="https://img.shields.io/badge/📦 View Code-00c9ff?style=for-the-badge&logoColor=white">
+<a href="https://www.muradmartbd.com">
+<img src="https://img.shields.io/badge/🌐 View Code-00c9ff?style=for-the-badge&logoColor=white">
 </a>
 </p>
 
