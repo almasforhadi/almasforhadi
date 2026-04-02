@@ -90,7 +90,7 @@ transition:0.4s;
 
 <h3 align="center">
 <a href="https://capitalbank.onrender.com/">
-🏦 CapitalBank
+🌐 CapitalBank
 </a>
 </h3>
 
@@ -100,8 +100,8 @@ Full banking system with authentication, transactions & role control
 </p>
 
 <p align="center">
-<a href="[https://capitalbank.onrender.com/](https://github.com/almasforhadi/CapitalBank-)">
-<img src="https://img.shields.io/badge/🌐 View Code-00c9ff?style=for-the-badge&logoColor=white">
+<a href="https://github.com/almasforhadi/CapitalBank-">
+<img src="https://img.shields.io/badge/📦 View Code-00c9ff?style=for-the-badge&logoColor=white">
 </a>
 </p>
 
@@ -114,27 +114,61 @@ Full banking system with authentication, transactions & role control
 <div style="
 padding:20px;
 border-radius:14px;
-border:2px solid #ff00cc;
-background:linear-gradient(145deg,#141e30,#243b55);
-box-shadow:0 0 15px rgba(255,0,200,.4);
+border:2px solid #00f0ff;
+background:linear-gradient(145deg,#0f2027,#203a43,#2c5364);
+box-shadow:0 0 15px rgba(0,255,255,.4);
+transition:0.4s;
 ">
 
-<h3 align="center"> MuradMartBD </h3>
+<h3 align="center">🌐 MuradMartBD </h3>
 
 <p align="center">
-A Full-stack production ready e-commerce platform for a Bangladeshi client, enabling local users to shop online and experience real-world digital marketplace interactions
+Full-stack E-commerce site for Bangladeshi client, enabling local users to shop online and experience real-world digital marketplace.
 </p>
 
 
 <p align="center">
-<a href="https://www.muradmartbd.com">
-<img src="https://img.shields.io/badge/🌐 View Code-00c9ff?style=for-the-badge&logoColor=white">
+<a href="https://github.com/almasforhadi/MuradMartBD">
+<img src="https://img.shields.io/badge/📦 View Code-00c9ff?style=for-the-badge&logoColor=white">
 </a>
 </p>
 
 </div>
 
 </td>
+
+<td width="33%">
+
+<div style="
+padding:20px;
+border-radius:14px;
+border:2px solid #00f0ff;
+background:linear-gradient(145deg,#0f2027,#203a43,#2c5364);
+box-shadow:0 0 15px rgba(0,255,255,.4);
+transition:0.4s;
+">
+
+<h3 align="center">
+<a href="https://mindpulseai.onrender.com">
+🌐 CapitalBank
+</a>
+</h3>
+
+
+<p align="center">
+MindPulseAI is a Django-based platform that uses machine learning to assess students’ mental well-being from survey data, providing risk predictions, personal dashboards, AI insights, and admin monitoring for research purposes.
+</p>
+
+<p align="center">
+<a href="https://github.com/almasforhadi/AI-based-Student-Mental-Health-Early-Detection-System">
+<img src="https://img.shields.io/badge/📦 View Code-00c9ff?style=for-the-badge&logoColor=white">
+</a>
+</p>
+
+</div>
+
+</td>
+
 
 <td width="33%">
 
